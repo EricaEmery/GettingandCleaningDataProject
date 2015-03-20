@@ -1,15 +1,15 @@
-Getting and Cleaning Data Course Project README Document
+## Getting and Cleaning Data Course Project README Document
 
 This repo contains 4 files:
-1. A tidy data set called tidy_dataset.txt 
-2. A code book describing the data set, variables, and work performed to obtain the tidy data set
-3. An R script called run_analysis.R that contains all of the R code to transform the original project data into tidy_dataset.txt
-4. This README file 
+- A tidy data set called tidy_dataset.txt 
+- A code book describing the data set, variables, and work performed to obtain the tidy data set
+- An R script called run_analysis.R that contains all of the R code to transform the original project data into tidy_dataset.txt
+- This README file 
 
 
 
 
-How the R Script Works
+# How the R Script Works
 
 Note that the 5 steps asked for in the project outline are not followed exactly in order in the R script, but still have been completed. 
 
