@@ -1,4 +1,4 @@
-## Getting and Cleaning Data Course Project CodeBook
+# Getting and Cleaning Data Course Project CodeBook
 
 
 # Data Set
@@ -7,7 +7,7 @@ The data set submitted for this project is based on data collected from experime
 Data was collected on 30 individuals performing six activities while wearing the smartphone. 
 
 
-# Transformations/Work Performed
+## Transformations/Work Performed
  
 To get from the original data provided for the project to the final tidy data set, several steps had to be performed, as outlined below:
 
@@ -22,7 +22,7 @@ To get these mean and standard deviation variables, variables that contained eit
 
 
 
-# Tidy Data Set
+## Tidy Data Set
 
 The data set tidy_dataset.txt contains 180 rows and 81 columns. 
 Each row corresponds to an individual (identified by the "ID" variable) performing one of the 6 activities (identified by the "activity" variable).
